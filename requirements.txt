@@ -1,0 +1,27 @@
+# Core deep learning
+torch==2.4.1+cu121 
+torchvision==0.19.1+cu121 
+torchaudio==2.4.1+cu121 
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# Image augmentations & preprocessing
+albumentations==1.4.14
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+# Models
+timm==1.0.9
+
+# Data science & utilities
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+tqdm==4.66.5
+
+# Web app framework
+streamlit==1.38.0
+
+# For model download
+huggingface-hub==0.20.3

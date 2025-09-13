@@ -1,0 +1,41 @@
+
+DIABETIC RETINOPATHY DETECTION MODEL - TRAINING SUMMARY
+============================================================
+
+MODEL CONFIGURATION:
+- Architecture: efficientnet_b3
+- Input Size: 512x512
+- Number of Classes: 5
+- Multi-task Learning: Severity + Lesion Detection + Anatomical Regions
+
+TRAINING DETAILS:
+- Total Epochs: 30
+- Batch Size: 32
+- Learning Rate: 0.0001
+- Optimizer: AdamW with Cosine Annealing
+- Mixed Precision: True
+
+DATASET:
+- Training Samples: 2937
+- Validation Samples: 735
+- Data Augmentation: Advanced medical image augmentation
+
+PERFORMANCE METRICS:
+- Final Accuracy: 0.6503
+- Weighted F1-Score: 0.6633
+- Macro F1-Score: 0.5346
+
+FILES GENERATED:
+- Model Weights: /content/drive/MyDrive/Diabetic_Retinopathy_Project/models/final_model_for_deployment.pth
+- Training Logs: /content/drive/MyDrive/Diabetic_Retinopathy_Project/training_logs/training_log_20250819_063219.txt
+- Evaluation Results: /content/drive/MyDrive/Diabetic_Retinopathy_Project/training_logs/final_evaluation_v2.json
+- Grad-CAM Visualizations: /content/drive/MyDrive/Diabetic_Retinopathy_Project/training_logs/gradcam_visualizations_v2
+
+NEXT STEPS:
+1. Download the final model file: /content/drive/MyDrive/Diabetic_Retinopathy_Project/models/final_model_for_deployment.pth
+2. Use this model in your Streamlit application
+3. Review the Grad-CAM visualizations to understand model focus areas
+4. Check training logs for detailed epoch-by-epoch performance
+
+============================================================
+Training completed successfully!

@@ -1,0 +1,427 @@
+[
+  {
+    "epoch": 1,
+    "train": {
+      "total_loss": 1.16981213924649,
+      "severity_loss": 1.16981213924649,
+      "lesion_loss": 1.1178708528424357,
+      "region_loss": 1.1334718498554859,
+      "accuracy": 0.3173076923076923,
+      "lr": 9.760827741224017e-05
+    },
+    "val": {
+      "total_loss": 0.40148123450901196,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.4748299319727891,
+      "severity_f1": 0.4763644857686235,
+      "qwk": 0.652349140205694,
+      "lesion_accuracy": 0.4848979711532593,
+      "lesion_f1": 0.36905029138623585,
+      "region_accuracy": 0.4533333480358124,
+      "region_f1": 0.26585345452173087
+    },
+    "epoch_time": 160.955406665802
+  },
+  {
+    "epoch": 2,
+    "train": {
+      "total_loss": 0.8247804874247247,
+      "severity_loss": 0.8247804874247247,
+      "lesion_loss": 1.0949908435999691,
+      "region_loss": 1.1163037714067396,
+      "accuracy": 0.4426510989010989,
+      "lr": 9.056151693442885e-05
+    },
+    "val": {
+      "total_loss": 0.3179633086142333,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.4598639455782313,
+      "severity_f1": 0.47387962678407114,
+      "qwk": 0.6927615021008644,
+      "lesion_accuracy": 0.5278911590576172,
+      "lesion_f1": 0.36480221274649377,
+      "region_accuracy": 0.45986393094062805,
+      "region_f1": 0.25202316849703194
+    },
+    "epoch_time": 130.02766633033752
+  },
+  {
+    "epoch": 3,
+    "train": {
+      "total_loss": 0.745667549935016,
+      "severity_loss": 0.745667549935016,
+      "lesion_loss": 1.0692375564313197,
+      "region_loss": 1.1149508841745146,
+      "accuracy": 0.479739010989011,
+      "lr": 7.954920691873985e-05
+    },
+    "val": {
+      "total_loss": 0.3031925572001416,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.4884353741496599,
+      "severity_f1": 0.4835622235552549,
+      "qwk": 0.6787752671253351,
+      "lesion_accuracy": 0.5273469090461731,
+      "lesion_f1": 0.3983352184823934,
+      "region_accuracy": 0.4574149549007416,
+      "region_f1": 0.2150808351112242
+    },
+    "epoch_time": 131.65202951431274
+  },
+  {
+    "epoch": 4,
+    "train": {
+      "total_loss": 0.6339712391842852,
+      "severity_loss": 0.6339712391842852,
+      "lesion_loss": 1.0275551283752524,
+      "region_loss": 1.0858299797707862,
+      "accuracy": 0.4993131868131868,
+      "lr": 6.56493089967844e-05
+    },
+    "val": {
+      "total_loss": 0.31359967281636986,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5863945578231292,
+      "severity_f1": 0.554999363868309,
+      "qwk": 0.7536312092919176,
+      "lesion_accuracy": 0.5121088624000549,
+      "lesion_f1": 0.38622177573499067,
+      "region_accuracy": 0.4791836738586426,
+      "region_f1": 0.21636514773351828
+    },
+    "epoch_time": 127.21960759162903
+  },
+  {
+    "epoch": 5,
+    "train": {
+      "total_loss": 0.5493145395111252,
+      "severity_loss": 0.5493145395111252,
+      "lesion_loss": 1.0176786171210992,
+      "region_loss": 1.0803807155116574,
+      "accuracy": 0.5151098901098901,
+      "lr": 5.022244202344699e-05
+    },
+    "val": {
+      "total_loss": 0.29508995102799457,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5795918367346938,
+      "severity_f1": 0.5512472764300189,
+      "qwk": 0.7671601389019135,
+      "lesion_accuracy": 0.48054420948028564,
+      "lesion_f1": 0.3587889052151249,
+      "region_accuracy": 0.47591835260391235,
+      "region_f1": 0.23199967756258771
+    },
+    "epoch_time": 116.51690220832825
+  },
+  {
+    "epoch": 6,
+    "train": {
+      "total_loss": 0.4452614181644314,
+      "severity_loss": 0.4452614181644314,
+      "lesion_loss": 1.0171369759591071,
+      "region_loss": 1.0653442982788925,
+      "accuracy": 0.570054945054945,
+      "lr": 3.4778695223380355e-05
+    },
+    "val": {
+      "total_loss": 0.262040695094544,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5673469387755102,
+      "severity_f1": 0.5643967405716995,
+      "qwk": 0.7573416158109505,
+      "lesion_accuracy": 0.5042176842689514,
+      "lesion_f1": 0.38457640790366643,
+      "region_accuracy": 0.4887074828147888,
+      "region_f1": 0.21453242319187427
+    },
+    "epoch_time": 124.07095909118652
+  },
+  {
+    "epoch": 7,
+    "train": {
+      "total_loss": 0.4297316735917395,
+      "severity_loss": 0.4297316735917395,
+      "lesion_loss": 1.0144137753235114,
+      "region_loss": 1.072734255712111,
+      "accuracy": 0.5803571428571429,
+      "lr": 2.0829810136286167e-05
+    },
+    "val": {
+      "total_loss": 0.28121860957016115,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5863945578231292,
+      "severity_f1": 0.5586382712066627,
+      "qwk": 0.7801409136654526,
+      "lesion_accuracy": 0.5039455890655518,
+      "lesion_f1": 0.40375628695409604,
+      "region_accuracy": 0.48625850677490234,
+      "region_f1": 0.21625690528503375
+    },
+    "epoch_time": 119.07510352134705
+  },
+  {
+    "epoch": 8,
+    "train": {
+      "total_loss": 0.42167670255178935,
+      "severity_loss": 0.42167670255178935,
+      "lesion_loss": 1.0147693733592609,
+      "region_loss": 1.069043395938454,
+      "accuracy": 0.5903159340659341,
+      "lr": 9.741200822086383e-06
+    },
+    "val": {
+      "total_loss": 0.26313688006737956,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5850340136054422,
+      "severity_f1": 0.570904047216826,
+      "qwk": 0.7738578592624968,
+      "lesion_accuracy": 0.5121088624000549,
+      "lesion_f1": 0.3982042145150567,
+      "region_accuracy": 0.46965986490249634,
+      "region_f1": 0.21208625409578327
+    },
+    "epoch_time": 118.88294458389282
+  },
+  {
+    "epoch": 9,
+    "train": {
+      "total_loss": 0.40796941076661203,
+      "severity_loss": 0.40796941076661203,
+      "lesion_loss": 1.0087896657514048,
+      "region_loss": 1.051899397111201,
+      "accuracy": 0.5982142857142857,
+      "lr": 2.5982976193388713e-06
+    },
+    "val": {
+      "total_loss": 0.2868930587302084,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6054421768707483,
+      "severity_f1": 0.5811210649014025,
+      "qwk": 0.7920412226256002,
+      "lesion_accuracy": 0.5053061246871948,
+      "lesion_f1": 0.40415446048408865,
+      "region_accuracy": 0.48571428656578064,
+      "region_f1": 0.2309165244780389
+    },
+    "epoch_time": 121.62959170341492
+  },
+  {
+    "epoch": 10,
+    "train": {
+      "total_loss": 0.39660882491331834,
+      "severity_loss": 0.39660882491331834,
+      "lesion_loss": 1.023271619618594,
+      "region_loss": 1.0834627216988868,
+      "accuracy": 0.5927197802197802,
+      "lr": 1.0029766106158586e-07
+    },
+    "val": {
+      "total_loss": 0.26044998512319895,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5673469387755102,
+      "severity_f1": 0.5571038381787893,
+      "qwk": 0.7702042717768607,
+      "lesion_accuracy": 0.4957823157310486,
+      "lesion_f1": 0.38794333480182347,
+      "region_accuracy": 0.4789115786552429,
+      "region_f1": 0.22460702056994467
+    },
+    "epoch_time": 113.87989044189453
+  },
+  {
+    "epoch": 11,
+    "train": {
+      "total_loss": 0.3961610142346267,
+      "severity_loss": 0.3961610142346267,
+      "lesion_loss": 1.0045799580249157,
+      "region_loss": 1.0711754252622416,
+      "accuracy": 0.6043956043956044,
+      "lr": 9.939844707152089e-05
+    },
+    "val": {
+      "total_loss": 0.30150955947844876,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6136054421768707,
+      "severity_f1": 0.5999166616624296,
+      "qwk": 0.7863418909542417,
+      "lesion_accuracy": 0.5210884213447571,
+      "lesion_f1": 0.48461991264485776,
+      "region_accuracy": 0.48571428656578064,
+      "region_f1": 0.23062813588958428
+    },
+    "epoch_time": 122.02572655677795
+  },
+  {
+    "epoch": 12,
+    "train": {
+      "total_loss": 0.37312989542772484,
+      "severity_loss": 0.37312989542772484,
+      "lesion_loss": 0.9935012289455959,
+      "region_loss": 1.0698332419762244,
+      "accuracy": 0.623282967032967,
+      "lr": 9.758184601335572e-05
+    },
+    "val": {
+      "total_loss": 0.26376592432675156,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6136054421768707,
+      "severity_f1": 0.6098850790446677,
+      "qwk": 0.7629474858475608,
+      "lesion_accuracy": 0.5257142782211304,
+      "lesion_f1": 0.49848228190385846,
+      "region_accuracy": 0.4595918357372284,
+      "region_f1": 0.2229813913780679
+    },
+    "epoch_time": 119.09503960609436
+  },
+  {
+    "epoch": 13,
+    "train": {
+      "total_loss": 0.3191569877358583,
+      "severity_loss": 0.3191569877358583,
+      "lesion_loss": 0.9900063079792064,
+      "region_loss": 1.0711480097456292,
+      "accuracy": 0.6411401098901099,
+      "lr": 9.459485315718898e-05
+    },
+    "val": {
+      "total_loss": 0.3022825690391271,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6149659863945578,
+      "severity_f1": 0.6218845606331107,
+      "qwk": 0.7667730607086003,
+      "lesion_accuracy": 0.530068039894104,
+      "lesion_f1": 0.4910306387700903,
+      "region_accuracy": 0.4568707346916199,
+      "region_f1": 0.20181252022273058
+    },
+    "epoch_time": 116.0977988243103
+  },
+  {
+    "epoch": 14,
+    "train": {
+      "total_loss": 0.31701829603740145,
+      "severity_loss": 0.31701829603740145,
+      "lesion_loss": 0.9795239312308175,
+      "region_loss": 1.070518862415146,
+      "accuracy": 0.6668956043956044,
+      "lr": 9.051101818040038e-05
+    },
+    "val": {
+      "total_loss": 0.28998079588231834,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.5959183673469388,
+      "severity_f1": 0.6131099853318663,
+      "qwk": 0.7674970086127993,
+      "lesion_accuracy": 0.5444898009300232,
+      "lesion_f1": 0.4746970801536047,
+      "region_accuracy": 0.44435372948646545,
+      "region_f1": 0.20189394973171948
+    },
+    "epoch_time": 120.65664100646973
+  },
+  {
+    "epoch": 15,
+    "train": {
+      "total_loss": 0.2554139170672867,
+      "severity_loss": 0.2554139170672867,
+      "lesion_loss": 0.9628940381846585,
+      "region_loss": 1.040273782316145,
+      "accuracy": 0.6820054945054945,
+      "lr": 8.543089865358975e-05
+    },
+    "val": {
+      "total_loss": 0.28729186012693075,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6503401360544218,
+      "severity_f1": 0.6633054343400403,
+      "qwk": 0.7956626510758398,
+      "lesion_accuracy": 0.5420408248901367,
+      "lesion_f1": 0.48785796203351084,
+      "region_accuracy": 0.4756462574005127,
+      "region_f1": 0.2071308022103755
+    },
+    "epoch_time": 118.32998394966125
+  },
+  {
+    "epoch": 16,
+    "train": {
+      "total_loss": 0.25751920748542956,
+      "severity_loss": 0.25751920748542956,
+      "lesion_loss": 0.9822622596562564,
+      "region_loss": 1.064040368074899,
+      "accuracy": 0.6888736263736264,
+      "lr": 7.94795839794572e-05
+    },
+    "val": {
+      "total_loss": 0.29087137406610925,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6,
+      "severity_f1": 0.6197198506521617,
+      "qwk": 0.76688041646659,
+      "lesion_accuracy": 0.5161904692649841,
+      "lesion_f1": 0.43475056110510124,
+      "region_accuracy": 0.42421770095825195,
+      "region_f1": 0.17624143300796394
+    },
+    "epoch_time": 116.14675903320312
+  },
+  {
+    "epoch": 17,
+    "train": {
+      "total_loss": 0.20229137905842656,
+      "severity_loss": 0.20229137905842656,
+      "lesion_loss": 0.9879273981838436,
+      "region_loss": 1.0697101341499078,
+      "accuracy": 0.7414148351648352,
+      "lr": 7.280361527656093e-05
+    },
+    "val": {
+      "total_loss": 0.3071126210624757,
+      "severity_loss": 0,
+      "lesion_loss": 0,
+      "region_loss": 0,
+      "severity_accuracy": 0.6244897959183674,
+      "severity_f1": 0.6450511785018399,
+      "qwk": 0.778451080460248,
+      "lesion_accuracy": 0.5428571701049805,
+      "lesion_f1": 0.4681320784746988,
+      "region_accuracy": 0.4413605332374573,
+      "region_f1": 0.17746910877386377
+    },
+    "epoch_time": 117.1176369190216
+  }
+]

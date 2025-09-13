@@ -1,0 +1,8 @@
+# Dataset Folder
+diabetic-retinopathy-224x224-gaussian-filtered/
+
+# python venv
+drp/
+
+# Model folder (The main script will download it automatically from the Hugging Face)
+model/
