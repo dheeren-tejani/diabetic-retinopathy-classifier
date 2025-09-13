@@ -228,7 +228,7 @@ The V2 model achieved a **+3.5% improvement in QWK** over the V1 baseline (0.761
 If you use this model in your work, please consider citing this repository.
 
 ```bibtex
-@misc{yourname-dr-model-2025,
+@misc{dheerentejani-dr-model-2025,
   author = {Dheeren},
   title = {A Deep Learning Model for Diabetic Retinopathy Grading},
   year = {2025},
